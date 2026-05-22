@@ -58,29 +58,29 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kavyakaira10&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rishi-911&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kavyakaira10&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishi-911&theme=radical" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavyakaira10&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-911&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ### 🧠 Coding Profiles:
 
-- 🔗 LeetCode: https://leetcode.com/u/kavya_k10/
-- 🔗 Codolio: https://codolio.com/profile/kavya_k10  
+- 🔗 LeetCode: https://leetcode.com/u/Rishi_911/
+- 🔗 Codolio: https://codolio.com/profile/Rishi911 
 
 ---
 
 ### 🚀 Goals:
-- Become a strong Full Stack Developer 💻  
-- Build scalable web apps 🌍  
-- Contribute to Open Source 🔥  
+- Master React & Backend Development ⚡  
+- Build impactful real-world projects 🌍  
+- Keep learning and improving every day 📚  
 
 ---
