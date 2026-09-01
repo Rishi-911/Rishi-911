@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rishi Shringi</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Frontend+Developer+(React);Frontend+Developer;AI%2FML+Explorer;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Data+Engineer;Python+Developer;AI+Engineer;Machine+Learning+Enthusiast;RAG+%26+LLM+Explorer" />
 </p>
 
-<h3 align="center">💻 Frontend Developer | React • Node.js Enthusiast • AI/ML Explorer</h3>
+
+<h3 align="center">💻 Python Developer | Data Engineer • AI Engineer • Python Developer
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mayankpatel-10&label=Profile%20views&color=0e75b6&style=flat" />
@@ -12,14 +14,19 @@
 
 ---
 
-### 🌱 Currently Learning
-- Advanced React ⚛️  
-- Node.js & Express.js 🚀
+🌱 Currently Learning
+Data Engineering 
+Machine Learning & AI 
+RAG & LLM Applications 
+Python 
 
 ---
 
-### 💬 Ask me about
-- React (Frontend Development)  
+###  Ask me about
+- Python 
+Data Engineering
+Machine Learning
+AI & RAG
 
 ---
 
@@ -71,16 +78,16 @@
 
 ---
 
-### 🧠 Coding Profiles:
+###  Coding Profiles:
 
 - 🔗 LeetCode: https://leetcode.com/u/Rishi_911/
 - 🔗 Codolio: https://codolio.com/profile/Rishi911 
 
 ---
-
-### 🚀 Goals:
-- Master React & Backend Development ⚡  
-- Build impactful real-world projects 🌍  
-- Keep learning and improving every day 📚  
+### Goals:
+Master Data Engineering & Python 
+Build real-world AI/ML & RAG projects 
+Become a strong AI Engineer 
+Keep learning and improving every day 
 
 ---
