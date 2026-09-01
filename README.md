@@ -57,7 +57,8 @@ AI & RAG
 
 ### 🛠️ Languages and Tools:
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,mysql,git" />
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,mysql,git,fastapi" />
+
 </p>
 
 ---
