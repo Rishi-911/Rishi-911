@@ -14,11 +14,10 @@
 
 ---
 
-🌱 Currently Learning
-Data Engineering 
-Machine Learning & AI 
-RAG & LLM Applications 
-Python 
+while (learning) {
+  focus_areas = ["Data Engineering", "ML & AI", "RAG + LLMs", "Python"];
+  curiosity++;
+} 
 
 ---
 
