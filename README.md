@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishi Shringi</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Data+Engineer;Python+Developer;AI+Engineer;Machine+Learning+Enthusiast;RAG+%26+LLM+Explorer" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Data+Engineer;AI+Engineer;Machine+Learning+Enthusiast;RAG+%26+LLM+Explorer" />
 </p>
 
 
